@@ -2,3 +2,5 @@ THIS IS MY FILE 2
 About to be statged and committed
 
 I'm so happy!
+
+Love GitHUB!
